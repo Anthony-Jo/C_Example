@@ -5,7 +5,7 @@
 
 void main(void) {
     printf("Github commit & push\n");
-    printf("visual studio code ì»´íŒŒì¼\n");
+    printf("visual studio code ÄÄÆÄÀÏ\n");
 
     int flag = FALSE;
 
