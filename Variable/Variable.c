@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 void main(void) {
-    int a = 100;
-    int b = 200;
+    int a = 300;
+    int b = 100;
 
     int c = a + b;
 
